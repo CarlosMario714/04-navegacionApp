@@ -22,7 +22,7 @@ const Drawer = createDrawerNavigator();
 
 // const Stack = createStackNavigator()
 // const SettingsStackScreen = () => {
-// 	return
+//
 // }
 
 export const MenuLateral = () => {
